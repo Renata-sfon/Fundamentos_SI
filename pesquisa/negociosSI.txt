@@ -1,0 +1,1 @@
+SaaS é um modelo de software baseado na nuvem, onde as empresas acessam aplicativos pela internet sem precisar instalar ou manter infraestrutura local. Os provedores hospedam, gerenciam e garantem a segurança do serviço.
