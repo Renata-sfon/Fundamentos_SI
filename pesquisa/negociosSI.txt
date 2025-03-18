@@ -1,1 +1,6 @@
 SaaS é um modelo de software baseado na nuvem, onde as empresas acessam aplicativos pela internet sem precisar instalar ou manter infraestrutura local. Os provedores hospedam, gerenciam e garantem a segurança do serviço.
+Benefícios do SaaS:
+Custos reduzidos: Elimina necessidade de compra e manutenção de hardware e software.
+Alta acessibilidade: Pode ser acessado de qualquer lugar com internet.
+Atualizações automáticas: O provedor gerencia upgrades sem necessidade de instalação.
+Integração simplificada: Permite personalização e conexão com outros sistemas via APIs.
